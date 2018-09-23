@@ -1,5 +1,5 @@
 # ANEWbr
-<p>Esta base de dados apresenta as médias e DP obtidos para as dimensões de valência e alerta em todas as palavras do ANEW-Br.</p>
+<p>Esta base de dados apresenta as médias e DP obtidos para as dimensões de valência e alerta para cada uma das 1.046 palavras do ANEW-Br.</p>
 <p>Formato do arquivo: CSV com ";" separando os campos.</p>
 <p>Coluna 1: palavra;</br>
 Coluna 2: valência - valor médio;</br>
